@@ -1,6 +1,5 @@
-![Logo](/docs/icon.png)
+[![Logo](docs/icon.png)](https://shout-app.tk/)
 # Shouter API
-
 ## Using
 Requirement: Python 3
 
