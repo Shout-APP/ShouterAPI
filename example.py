@@ -1,11 +1,3 @@
-# Using
-Requirement: Python 3
-
-1. `pip install shouter`
-2. Create a new `.py` file and import `from shouter.shouter import Shouter`
-3. Use the Interface:
-
-```python
 from shouter.shouter import Shouter
 
 
@@ -18,9 +10,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-```
-4. Build your own Shouter bot!
-
-# Contributing
-
