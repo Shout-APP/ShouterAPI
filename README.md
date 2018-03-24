@@ -1,4 +1,7 @@
-# Using
+![Logo](/docs/icon.png)
+# Shouter API
+
+## Using
 Requirement: Python 3
 
 1. `pip install shouter`
@@ -22,5 +25,5 @@ if __name__ == "__main__":
 ```
 4. Build your own Shouter bot!
 
-# Contributing
+## Contributing
 
