@@ -6,7 +6,7 @@ import urllib.response
 SHOUT_ENDPOINT = "https://shout-app.tk/shouter"
 
 
-class Shouter:
+class Shouter(object):
     def __init__(self, api_token: str) -> None:
         self.api_token = api_token
 
